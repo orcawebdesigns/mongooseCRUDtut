@@ -9,7 +9,7 @@ const mongoose = require('mongoose');
 
 
 - All CRUD application begin with a schema, so we will create a directory and name it 'models', and this is where we will store our schemas.
-- 
+
 ![Screen Shot 2021-03-08 at 8.18.27 PM.png](https://www.dropbox.com/s/3caqnm8zhjbobk1/Screen%20Shot%202021-03-08%20at%208.18.27%20PM.png?dl=0&raw=1)
 
 ```
